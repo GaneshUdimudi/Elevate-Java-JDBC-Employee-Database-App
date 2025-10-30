@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Employee App",
+            "request": "launch",
+            "mainClass": "EmployeeApp",
+            "classPaths": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/lib/*"
+            ]
+        }
+    ]
+}
